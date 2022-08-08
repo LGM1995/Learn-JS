@@ -1,4 +1,6 @@
 # RunningJS
+# 프로그래머스의 JS기초강의
+## https://school.programmers.co.kr/learn/courses/3
 
 ## Run 01 alert 사용
 ### javascript 구문을 js파일에 추가하여 html 파일에서 script src 를 활용하여 불러옴
